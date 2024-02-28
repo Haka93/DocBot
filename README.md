@@ -1,2 +1,20 @@
-# DocBot
-Health Assistant by Haka is an intelligent system designed to provide medical treatment suggestions based on user-input symptoms. Powered by the advanced ChatGPT model from OpenAI, this virtual health assistant aims to assist users in understanding potential treatments and precautions for various health concerns.
+# Health Assistant by Haka
+
+This project is a Health Assistant powered by ChatGPT, providing possible treatment suggestions based on symptoms and offering precautions.
+
+## Usage
+- Enter symptoms in the text box and get treatment suggestions and precautions.
+
+## Installation
+- Clone the repository.
+- Set up your OpenAI API key.
+
+## Configuration
+- Ensure you have the necessary dependencies installed.
+
+## License
+This project is licensed under the [Haka93] - see the [LICENSE.md](LICENSE.md) file for details.
+
+## Acknowledgments
+- Special thanks to OpenAI for the ChatGPT model.
+
